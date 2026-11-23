@@ -2,6 +2,8 @@
 
 Game-ready Blender scenes plus scripts that export them to Godot as **glTF Separate** (`.gltf` + `.bin` + a shared texture tree).
 
+![Reference Image](./projects/main_menu_background_scene/assets/ref/inside_facility.webp)
+
 ## Running the exports
 
 Run Blender from the folder that holds the `.blend`, headless:
